@@ -1,5 +1,8 @@
 import React from 'react';
-import {createStackNavigator} from '@react-navigation/stack';
+import {
+  CardStyleInterpolators,
+  createStackNavigator,
+} from '@react-navigation/stack';
 import screenName from '../../utils/screenName';
 import MoneyMovement from '../../screen/MoneyMovement';
 import {moneyArrayObj} from '../../service/redux/MoneyMovement/interface';
@@ -16,6 +19,7 @@ const MainStack = () => {
     <Stack.Navigator
       screenOptions={{
         headerShown: false,
+        cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
       }}>
       <Stack.Screen name={screenName.moneyMovement} component={MoneyMovement} />
       <Stack.Screen
