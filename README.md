@@ -20,7 +20,7 @@ React Native debug builds allow you to stream Javascript updates from your dev m
 
 #### Android
 If you have trouble installing a new build: 
-- check your sdk path is match with `android/local.properties` if not the change `sdk.dir` with your sdk path.
+- check if your android sdk path is matching with `android/local.properties` if not then change `sdk.dir` with your sdk path.
 - close and reopen terminal window
 - run `./gradlew clean` in android folder
 
