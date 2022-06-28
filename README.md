@@ -36,17 +36,17 @@ If having trouble with new build installation:
     - https://reactnavigation.org/docs/getting-started
     
 - For persiste data into device and fetch from server we use below packages.
-    // For connection to server
-    - https://github.com/axios/axios
+    - For connection to server
+        - https://github.com/axios/axios
     
-    //Persiste data with redux
-    https://github.com/reduxjs/redux
-    https://github.com/reduxjs/react-redux
-    https://github.com/reduxjs/redux-thunk //middleware for redux
-    https://github.com/rt2zz/redux-persist
+    - Persiste data with redux
+        - https://github.com/reduxjs/redux
+        - https://github.com/reduxjs/react-redux
+        - https://github.com/reduxjs/redux-thunk //middleware for redux
+        - https://github.com/rt2zz/redux-persist
     
-    //Local storage
-    https://react-native-async-storage.github.io/async-storage/docs/install
+    - Local storage
+        - https://react-native-async-storage.github.io/async-storage/docs/install
     
 - For SVG icons
     - https://github.com/react-native-svg/react-native-svg
