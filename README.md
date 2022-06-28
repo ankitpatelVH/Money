@@ -4,7 +4,7 @@ Make sure you have the required tools installed. Latest versions used in develop
 - Node
 - Android Studio
 - XCode
-- Editor
+- Editor (ex: VS Code)
 
 ### Setup
 Clone project to your machine and open the folder in you editer then open your editer terminal then run `npm install` to install all the packages.
