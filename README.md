@@ -1,9 +1,10 @@
 # Money
 
 Make sure you have the required tools installed. Latest versions used in development listed below:
-1)Node
-2)Android Studio
-3)XCode
+- Node
+- Android Studio
+- XCode
+- Editor
 
 ### Setup
 Clone project to your machine and open the folder in you editer then open your editer terminal then run `npm install` to install all the packages.
