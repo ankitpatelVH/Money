@@ -1,6 +1,5 @@
 # Money
 
-# asdsa
 Make sure you have the required tools installed. Latest versions used in development listed below:
 - Node
 - Android Studio
